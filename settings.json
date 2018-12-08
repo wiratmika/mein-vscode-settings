@@ -40,11 +40,11 @@
   "workbench.activityBar.visible": false,
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "Material Theme Darker High Contrast",
-  "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "eq-material-theme-icons-darker",
   "gitlens.codeLens.enabled": false,
   "gitlens.currentLine.enabled": false,
   "gitlens.hovers.currentLine.over": "line",
   "gitlens.hovers.currentLine.enabled": false,
-  "window.menuBarVisibility": "default"
+  "window.menuBarVisibility": "default",
+  "window.titleBarStyle": "custom"
 }
