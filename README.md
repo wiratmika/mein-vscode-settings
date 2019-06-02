@@ -21,5 +21,5 @@ code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
 code --install-extension joelday.docthis
 code --install-extension ms-python.python
-code --install-extension vsmobile.vscode-react-native
+code --install-extension msjsdiag.vscode-react-native
 ```
