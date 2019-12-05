@@ -13,9 +13,8 @@
 ## List of installed extensions
 
 ```
-code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension CoenraadS.bracket-pair-colorizer-2
 code --install-extension dbaeumer.vscode-eslint
-code --install-extension dsznajder.es7-react-js-snippets
 code --install-extension eamodio.gitlens
 code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
