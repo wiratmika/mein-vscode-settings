@@ -13,5 +13,8 @@
 ## List of installed extensions
 
 ```
-code --install-extension ms-python.python
+code --install-extension eamodio.gitlens
+code --install-extension Equinusocio.vsc-community-material-theme
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension equinusocio.vsc-material-theme-icons
 ```
