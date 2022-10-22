@@ -11,5 +11,8 @@
     "terminal.integrated.fontSize": 16,
     "workbench.activityBar.visible": false,
     "workbench.colorTheme": "Material Theme Darker High Contrast",
-    "workbench.panel.defaultLocation": "right"
+    "workbench.panel.defaultLocation": "right",	
+    "workbench.startupEditor": "none",	
+    "editor.copyWithSyntaxHighlighting": false,	
+    "terminal.integrated.enableMultiLinePasteWarning": false
 }
